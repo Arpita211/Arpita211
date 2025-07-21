@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Arpita Singh | Portfolio ReadMe</title>
+  <title>README | Arpita Singh Portfolio</title>
   <style>
     body {
       background-color: #0d0d0d;
@@ -24,10 +24,13 @@
     }
     code, pre {
       background: #1a1a1a;
-      padding: 0.5rem;
-      display: block;
+      color: #00ff99;
+      padding: 0.75rem;
       border-radius: 6px;
       margin: 1rem 0;
+      display: block;
+      white-space: pre-wrap;
+      overflow-x: auto;
     }
     ul {
       list-style: none;
@@ -39,7 +42,7 @@
       color: #00ffc3;
     }
     section {
-      margin-bottom: 2rem;
+      margin-bottom: 2.5rem;
     }
   </style>
 </head>
@@ -55,8 +58,7 @@
     <p>🎯 I am passionate about:</p>
     <ul>
       <li>Web Development</li>
-      <li>AI & Machine Learning</li>
-      <li>Cybersecurity</li>
+      <li>AI & Machine Learning </li>
       <li>Building real-world solutions</li>
     </ul>
   </section>
@@ -70,20 +72,3 @@
       <li>MERN Stack (used in projects)</li>
     </ul>
   </section>
-
-  <section>
-    <h2>🔥 Featured Project</h2>
-    <h3>🔹 Blessed Ways – Pilgrimage Travel Website</h3>
-    <p>A MERN-based full-stack travel website designed for spiritual travelers.</p>
-    <strong>Key Features:</strong>
-    <ul>
-      <li>AI-generated temple visuals</li>
-      <li>Animated hero and scroll effects</li>
-      <li>Clean UI with a dark, tech theme</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>📄 Certifications</h2>
-    <ul>
-      <li>Responsive
