@@ -3,48 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>README | Arpita Singh Portfolio</title>
-  <style>
-    body {
-      background-color: #0d0d0d;
-      color: #f1f1f1;
-      font-family: Arial, sans-serif;
-      padding: 2rem;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #00ffc3;
-    }
-    a {
-      color: #00ffe5;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    code, pre {
-      background: #1a1a1a;
-      color: #00ff99;
-      padding: 0.75rem;
-      border-radius: 6px;
-      margin: 1rem 0;
-      display: block;
-      white-space: pre-wrap;
-      overflow-x: auto;
-    }
-    ul {
-      list-style: none;
-      padding-left: 0;
-    }
-    ul li::before {
-      content: "🔹";
-      margin-right: 0.5rem;
-      color: #00ffc3;
-    }
-    section {
-      margin-bottom: 2.5rem;
-    }
-  </style>
 </head>
 <body>
 
