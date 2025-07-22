@@ -6,7 +6,7 @@
 </head>
 <body>
 
-  <h1>🌐 Arpita Singh | Web Developer Portfolio</h1>
+  <h1>🌐 Arpita Singh </h1>
 
   <p>Welcome to my personal <strong>web developer portfolio</strong> built using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>Bootstrap</strong>. This project highlights my skills, projects, resume, and certifications in a single-page, dark-themed, tech-inspired layout.</p>
 
